@@ -1,6 +1,6 @@
 # Hi there, I'm Arsh 👋
 
-## I am a Full Stack Developer, Competitive Programmer (4🌟 Codechef(1854)), and a student at PEC (CSE'23)
+## I am a Full Stack Web Developer, Competitive Programmer (4🌟 Codechef), and a student at PEC (CSE'23)
 
 <!--
 **Arsh-Kashyap/Arsh-Kashyap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
