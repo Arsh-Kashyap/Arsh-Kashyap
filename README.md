@@ -1,17 +1,17 @@
-### Hi there 👋
+# Hi there, I'm Arsh 👋
+
+## I am a Full Stack Developer, Competitive Programmer (4🌟 Codechef(1854)), and a student at PEC (CSE'23)
 
 <!--
 **Arsh-Kashyap/Arsh-Kashyap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
-![Arsh's github stats] (https://github-readme-stats.vercel.app/api?username=Arsh-Kashyap)
+<img src="https://github-readme-stats.vercel.app/api?username=Arsh-Kashyap">
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on some projects
+- 🌱 I’m currently learning competitive programming
+- 💬 Ask me about anything!
+- ⚡ Fun fact: I like to play with code everyday
+
+## Connect with me on
+<a href="https://www.linkedin.com/in/arsh-kashyap/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" style="max-width:100%;"></a> <a href="https://github.com/Arsh-Kashyap"><img src="https://img.icons8.com/fluent/48/000000/github.png" style="max-width:100%;"></a>
