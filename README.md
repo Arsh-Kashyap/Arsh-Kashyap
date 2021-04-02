@@ -4,7 +4,7 @@
 
 <!--
 **Arsh-Kashyap/Arsh-Kashyap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
-<img src="https://github-readme-stats.vercel.app/api?username=Arsh-Kashyap">
+<img src="https://github-readme-stats.vercel.app/api?color=blue&username=Arsh-Kashyap&count_private=true&show_icons=true&theme=algolia">
 
 - 🔭 I’m currently working on some projects
 - 🌱 I’m currently learning competitive programming
