@@ -4,11 +4,11 @@
 
 <!--
 **Arsh-Kashyap/Arsh-Kashyap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
-<img src="https://github-readme-stats.vercel.app/api?color=blue&username=Arsh-Kashyap&count_private=true&show_icons=true&theme=algolia">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arsh-Kashyap&layout=compact&count_private=true&show_icons=true&theme=algolia" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?color=blue&username=Arsh-Kashyap&count_private=true&show_icons=true&theme=algolia">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arsh-Kashyap&layout=compact&count_private=true&show_icons=true&theme=algolia&langs_count=10&include_all_commits=true" />
 
 - 🔭 I’m currently working on some projects
-- 🌱 I’m currently learning competitive programming
+- 🌱 I’m currently learning new skills.
 - 💬 Ask me about anything!
 - ⚡ Fun fact: I like to play with code everyday
 
