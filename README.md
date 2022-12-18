@@ -6,7 +6,7 @@
 <!--
 **Arsh-Kashyap/Arsh-Kashyap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 <img align="center" src="https://github-readme-stats.vercel.app/api?color=blue&username=Arsh-Kashyap&count_private=true&show_icons=true&theme=algolia">
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arsh-Kashyap&hide=html&show_icons=true&&theme=algolia" alt="Arsh's github stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arsh-Kashyap&layout=compact&count_private=true&show_icons=true&theme=algolia&langs_count=10&include_all_commits=true" />
 
 - 🔭 I’m currently working on some projects
 - 🌱 I’m currently learning new skills.
