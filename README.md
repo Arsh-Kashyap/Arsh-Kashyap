@@ -4,6 +4,9 @@
 
 <!--
 **Arsh-Kashyap/Arsh-Kashyap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
+## Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=Arsh-Kashyap&theme=algolia&column=-1&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+<hr/>
 <img align="center" src="https://github-readme-stats.vercel.app/api?color=blue&username=Arsh-Kashyap&count_private=true&show_icons=true&theme=algolia">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arsh-Kashyap&layout=compact&count_private=true&show_icons=true&theme=algolia&langs_count=10&include_all_commits=true" />
 
