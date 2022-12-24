@@ -1,5 +1,4 @@
-# Hi There, I'm <a href="https://ankitgoyal0301.github.io/My-Portfolio/">Arsh Kashyap</a> <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
-<p align="left"> <img src=https://komarev.com/ghpvc/?username=Arsh-Kashyap&color=blue alt=ankitgoyal0301/></p>
+# Hi There, I'm Arsh Kashyap👋
 
 ## I am a Full Stack Web Developer, Competitive Programmer (4🌟 Codechef), and a student at PEC (CSE'23)
 
